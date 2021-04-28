@@ -1,21 +1,30 @@
 <html>
-<head>
-<style>
-body {
-  font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Ubuntu, sans-serif;
-}
-a {
-  color: #03a9f4;
-}
-</style>
-</head>
-<body>
-<h1>Paulus Schoutsen</h1>
-Founder <a href="https://www.home-assistant.io">Home Assistant</a> & <a href="https://www.nabucasa.com">Nabu Casa, Inc.</a>
-<ul>
-  <li><a rel="me" href="https://github.com/balloob/">GitHub</a></li>
-  <li><a rel="me" href="https://twitter.com/balloob/">Twitter</a></li>
-</ul>
-website@paulusschoutsen.nl
-</body>
+  <head>
+    <style>
+      body {
+        font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI",
+          Roboto, Ubuntu, sans-serif;
+      }
+      a {
+        color: #03a9f4;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Paulus Schoutsen</h1>
+    Founder <a href="https://www.home-assistant.io">Home Assistant</a> &
+    <a href="https://www.nabucasa.com">Nabu Casa, Inc.</a>
+    <ul>
+      <li><a rel="me" href="https://github.com/balloob/">GitHub</a></li>
+      <li><a rel="me" href="https://twitter.com/balloob/">Twitter</a></li>
+    </ul>
+    <script>
+      window.addEventListener("DOMContentLoaded", () => {
+        const ul = document.querySelector("ul");
+        const li = document.createElement("li");
+        li.innerHTML = `<a href="mailto:hello@${location.hostname}">Email</a>`;
+        ul.append(li);
+      });
+    </script>
+  </body>
 </html>
