@@ -19,12 +19,16 @@
       <li><a rel="me" href="https://twitter.com/balloob/">Twitter</a></li>
     </ul>
     <script>
-      window.addEventListener("DOMContentLoaded", () => {
-        const ul = document.querySelector("ul");
-        const li = document.createElement("li");
-        li.innerHTML = `<a href="mailto:hello@${location.hostname}">Email</a>`;
-        ul.append(li);
-      });
+      window.addEventListener(
+        "DOMContentLoaded",
+        () => {
+          const ul = document.querySelector("ul");
+          const li = document.createElement("li");
+          li.innerHTML = `<a href="mailto:hello@${location.hostname}">Email</a>`;
+          ul.append(li);
+        },
+        { once: true }
+      );
     </script>
   </body>
 </html>
