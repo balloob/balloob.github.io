@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/balloob
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://paulusschoutsen.nl
+  * I am balloob (https://keybase.io/balloob) on keybase.
+  * I have a public key with fingerprint BBAD 245E 7174 B2E5 AD56  CBFB 322A D3E1 BB02 7C65
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120c8648dd082cb5efb46eb258e17365c88db5de6b38ae37b7f41913b20d281409d0a",
+            "fingerprint": "bbad245e7174b2e5ad56cbfb322ad3e1bb027c65",
+            "host": "keybase.io",
+            "key_id": "322ad3e1bb027c65",
+            "kid": "0101aa7caf99021468cefb6f7cae78c39b1282bb48f56882b497decd205439dacf140a",
+            "uid": "1c06eeb8d788d73adeacf113ccd58919",
+            "username": "balloob"
+        },
+        "service": {
+            "hostname": "paulusschoutsen.nl",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1472104653,
+    "expire_in": 157680000,
+    "prev": "1c60ebda109d641b58604b0c65d428c6fd691c68842fb877dd4937ec645807de",
+    "seqno": 9,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.56
+Comment: https://keybase.io/crypto
+
+yMN3AnicbVJ7UFVFHAaEiAuCDcOQD3Q6SDSEdN6P25DgjHcCAxEjrDHvnD27B47c
+7rncFwEq0hgmRb6KYJTHCI7RQzANNZG45owML6vrzUYwkLCRUcCZfCRgdA6j/7X/
+7O5vv+/b7/vtXly4wM/gTyZ4b5wL2Ib8ez2HXH65nR/1l2JAhcWYsRQrQPMTskDk
+cJoLFIgZMZwgcYlnaR5CnCclwCAZ0CwCJMMjgqNYRuJ5CBiIWEDxIqI4wMk0IRAU
+IHFI8gSNCxAXsURMVqx5yG6zK1anJguACEmaQRzB0YBEjAgZVgIyoEhShBQiAMBJ
+TmIZjZivOnSGZg6IDpSkqFpN25jn7f0P/qlvnBBFThJlQcBJgmZ5SXPOyloFcbxE
+CYAgeRIAmpcZltdWtMBBJEESZ2hKgKIka9Z13655OULCWYQADzktLkeJEOkIgpIk
+yPACIehAB7JbxfeQnk60WFQVYNsTMa3oViSk91UP8gRgE10Wl8Mh5asupwNZk6wW
+TcBmV52qpFq083yn02bU6c5im44vQsD8RMkMFCvUeqkR3MjuUFQrZiQ0pORUdGmC
+5kgCp1mGSsTQ+zbFjsyKjmA4lse1oV+D3POJWBwBKBLaA7E0ARiexWmAaz2ENMlL
+rAxZQcPwPE3KgOc4CGmB4pDE0gyPa63C9GyFVhUzCppNMU+TdCh5VtHpsiNs+wXP
+5kA/f4PfM0EB+h/zM4QsevrzKloj5tIa305+6ayv+sUfO5asaKi++v0vU5PC6+Pr
+7J1bO+6WuuIPL+12Rr0z9PiVe7dGe9MXdr2amxV54K8wMqeMcCRUGQdOd0x8unb9
+lWUfTN4O2rNhZcq1nPTjD06ebKx92NdS21bgeyGGrJJW/+1e8689XJgZWGUwn7go
+xpmUvCWZsXURivssWRPx05+T1waWni/9uiS6fm4kLmPQ8EObJ/736sgP+y+9WWkK
+yx00zJ72fQN7Ph7JXpH1x/MHky8fdR0501e479ij2dCs3rnKbM9XB3PG2tulAPMn
+SabUE957N+NO5X/mwdo7U49tixmtxXOsAcUbD2RkDrd9m2Tc3ff5xP52ty3kfpwr
+vPtw09jGmRC5c2hiV1Ca19wT/LB5Tr0bnjG9Obc28N08b/riomcLV/ekDHXHh7X+
+WvY4OiPS6s4o+md3jW9sorMhogJ3Zk3FVl+/EOX/2/iWkaCK0KY1e4MzJ/sjHFEz
+JSVxxNq+Nsdwavkp+kivqcm1kmzJrL+VXf/WuZ/TxpqCH11/bVHDoZ177n8ZG713
+w9gXU6Yt07ejW70+yhTsns6Njwzu4qnmtKrn7mwK9C5vDhl+w27uGmi5Wfry1qPl
+RYvLauYeNNJ1O6baR1atOx/DjA5u2rerckF+QuTVMymty/cv6720MzWxbvKyb9yT
+0BJqb06e3bH+yo3y41N3+gq/88r/AbBaza4=
+=SIfo
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/balloob
+
+==================================================================
